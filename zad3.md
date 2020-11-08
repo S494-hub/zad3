@@ -86,3 +86,12 @@ W połowie XIX wieku bunty te stały się zarzewiem wielkiego ruchu o charakterz
 ![](1.jpg)
 
 ---
+
+## Podsumowanie
+
+Wojny przyszłości nadal będą bezpośrednio lub pośrednio oddziaływać na wszystkie płaszczyzny i rodzaje stosunków międzynarodowych oraz na wszystkie podmioty w nich uczestniczące. Będą one prowadzone przy masowym użyciu
+zaawansowanych technologii, w tym sprzętu bezzałogowego, środków automatyzacji dowodzenia, nowoczesnych systemów informatycznych oraz broni precyzyjnego rażenia. Największym zagrożeniem jest wzrastające prawdopodobieństwo użycia broni masowego rażenia, w tym przede wszystkim broni jądrowej.
+Dlatego negatywne doświadczenia związane z prowadzeniem wojen przekonują,
+że nastał czas, by wszelkie spory międzynarodowe były załatwiane przy pomocy środków pokojowych. Jest to przedsięwzięcie trudne, bowiem różnorodność i skala sytuacji
+konfliktowych jest nadal bardzo duża. Ponieważ bezpieczeństwo globalne dotyczy interesu ogólnoświatowego, dlatego w rozwiązanie nowych wyzwań i zagrożeń dla pokoju
+należy angażować jak najwięcej podmiotów bezpieczeństwa.
