@@ -41,3 +41,14 @@ Największa wojna światowa w historii, trwająca od 1 września 1939 do 2 wrze�
 ![](9.jpg)
 
 ---
+
+## Wojna trzech królest
+
+Za datę jej początku uznaje się najczęściej upadek dynastii Han w 220 r. Dla wielu chińskich historyków Epokę otwiera jednak już powstanie Żółtych Turbanów w 184 r. W 220 r. Cesarstwo rozpadło się na trzy oddzielne państwa: Shu Han (蜀漢, zwane także Shu, 蜀), Wei (魏) oraz Wu (吳). Ich władcy, rywalizując ze sobą o jak największe wpływy i rozszerzenie swych domen, prowadzili nieustanne wojny między sobą do 280 r.
+
+| Ilość uczestniczących ludzi        | Szacowana liczba zgonów           | Długość trwania |
+| ------------- |:-------------:| -----:|
+|     -      | około 38 mln ludzi (~70% ludności Chin) | około 60 lat |
+![](7.jpg)
+
+---
