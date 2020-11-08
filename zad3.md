@@ -17,7 +17,7 @@ Postrzeganie historii jest dzisiaj ważnym elementem międzynarodowej dyskusji. 
 **Prezentacja jest ograniczona do 5 najbaradzeiej krwawych konfliktów**
 
 Warto dodać, że oszacowana wartość zgonów jest podawana ze wzory: 
-![](1.gif)
+![](12.jpg)
 ---
 
 ## Przegląd
