@@ -63,3 +63,14 @@ Mongołowie były to koczownicze plemiona, które zamieszkiwały początkowo ter
 ![](5.jpg)
 
 ---
+
+## Europejskie podboje Ameryk
+
+Podbój prowadzili przedsiębiorczy i ambitni konkwistadorzy hiszpańscy, kierujący niewielkimi, lecz dobrze wyposażonymi i zaprawionymi w bojach oddziałami żołnierzy-awanturników, żądnych łupów i przygód. Często byli nimi przestępcy, zwalniani specjalnie z więzień na dalekie i nader ryzykowne wyprawy kolonialne. Wielu rycerzy było ogarniętych zapałem religijnym i jechało do nowo odkrytej Ameryki, by wziąć udział w nawracaniu nowych dusz na wiarę chrześcijańską. Organizacją i finansowaniem większych wypraw zajmowała się początkowo korona hiszpańska lub pełnomocnicy królewscy. Z czasem organizacją wypraw zajęli się też bogatsi szlachcice.
+
+| Ilość uczestniczących ludzi        | Szacowana liczba zgonów           | Długość trwania |
+| ------------- |:-------------:| -----:|
+|     -      | około 34 mln ludzi  | około 199 lat |
+![](4.jpg)
+
+---
