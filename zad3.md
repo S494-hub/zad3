@@ -74,3 +74,15 @@ Podbój prowadzili przedsiębiorczy i ambitni konkwistadorzy hiszpańscy, kieruj
 ![](4.jpg)
 
 ---
+
+## Rebelia tajpingów
+Po I wojnie opiumowej w ciągu kilku lat import tkanin bawełnianych i wełnianych z Wielkiej Brytanii do Chin wzrósł ok. 4-krotnie. Zrujnował on tysiące drobnych zakładów tkackich w całym kraju i spowodował wystąpienie dużego deficytu w handlu zagranicznym. Wzrósł też znacznie kurs srebrnego pieniądza, jakim płacono za import towarów, w stosunku do pieniędzy miedzianych, będących w obrocie wewnętrznym. W konsekwencji nastąpił znaczny wzrost podatków i gwałtowne ubożenie ludności. Na tym tle doszło do dziesiątek powstań i buntów, głównie chłopskich, zwłaszcza w prowincjach południowych, które najbardziej ucierpiały wskutek brytyjskiej ekspansji.
+
+W połowie XIX wieku bunty te stały się zarzewiem wielkiego ruchu o charakterze religijno-militarnym, zwanego powstaniem tajpingów. Przywódcą ruchu stał się charyzmatyczny mistyk, Hong Xiuquan. Proklamował on w sierpniu 1851 roku utworzenie Niebiańskiego Królestwa Wielkiego Pokoju (chin. 太平天囯 Tàipíng Tiānguó), od którego chińskiej nazwy pochodzi nazwa powstania. Sam siebie obwołał władcą. Ogłosił też nową religię, będącą mieszanką chrześcijaństwa i konfucjanizmu. Wprowadzała ona purytańskie zasady moralne, wspólną własność majątkową, równy podział ziemi, równość kobiet i mężczyzn, mandarynów i chłopów itp. wprowadzając w społeczeństwie surową dyscyplinę i wojskową organizację. Znakiem tajpingów była żółta przepaska na głowie i długie włosy bez warkoczyka.
+
+| Ilość uczestniczących ludzi        | Szacowana liczba zgonów           | Długość trwania |
+| ------------- |:-------------:| -----:|
+|     -      | około 31 mln ludzi  | około 14 lat |
+![](1.jpg)
+
+---
