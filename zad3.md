@@ -20,3 +20,13 @@ Warto dodać, że oszacowana wartość zgonów jest podawana ze wzory:
 $$ \sqrt(minimalna,szacowana,ilośc,zgonów * maksymalna,szacowana,ilośc,zgonów) $$
 ---
 
+## Przegląd
+
+5 konfliktów z największa liczbą ofiar:
+
+1. II wojna światowa (1939 do 1945)
+2. Wojna domowa w chinach (wojna trzech królestw)
+3. Podboje Mongołów (1237 do 1240)
+4. Europejska colonizacja Ameryk
+5. Rebelia tajpingów (Chiny)
+---
