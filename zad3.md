@@ -30,3 +30,14 @@ $$ \sqrt(minimalna,szacowana,ilośc,zgonów * maksymalna,szacowana,ilośc,zgonó
 4. Europejska colonizacja Ameryk
 5. Rebelia tajpingów (Chiny)
 ---
+
+## II wojna światowa
+
+Największa wojna światowa w historii, trwająca od 1 września 1939 do 2 września 1945 (w Europie do 8/9 maja 1945). Jej teatr działań wojennych objął prawie całą Europę, wschodnią i południowo-wschodnią Azję, północną Afrykę, część Bliskiego Wschodu i wszystkie oceany. Niektóre epizody wojny rozgrywały się nawet w Arktyce i Ameryce Północnej. Poza większością państw europejskich i ich koloniami, brały w niej udział państwa Ameryki Północnej i Ameryki Południowej oraz Azji. Głównymi stronami konfliktu były państwa Osi i państwa koalicji antyhitlerowskiej (alianci).  
+
+| Ilość uczestniczących ludzi        | Szacowana liczba zgonów           | Długość trwania |
+| ------------- |:-------------:| -----:|
+| 1,7 mld w tym (11 mln ludzi z bronią)           | około 85 mln ludzi | 6 lat |
+![](9.jpg)
+
+---
