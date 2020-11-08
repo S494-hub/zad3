@@ -52,3 +52,14 @@ Za datę jej początku uznaje się najczęściej upadek dynastii Han w 220 r. Dl
 ![](7.jpg)
 
 ---
+
+## Podboje Mongołów
+
+Mongołowie były to koczownicze plemiona, które zamieszkiwały początkowo tereny Dalekiego Wschodu, a dokładnie tereny dzisiejszej Mongolii, Mandżurii oraz południowo-wschodniej Syberii - stąd ich sąsiedztwo z krajem plemion ruskich. W okresie XII wieku plemiona mongolskie przeszły przez proces bardzo znaczących przemian społecznych, które doprowadziły między innymi do całkowitego rozkładu układu rodowego. Układ ten zastąpiła forma bardziej zaawansowana, a mianowicie rodzina patriarchalna. Przetrwały jednak pewne elementy wspólnoty, choć rodzina z całą swoją hierarchią była najbardziej rozpowszechniona. Rozkład wspólnoty rodowej przyniósł ze sobą - w naturalny sposób - rozkład i rozwarstwienie członków dawnej wspólnoty rodowej.
+
+| Ilość uczestniczących ludzi        | Szacowana liczba zgonów           | Długość trwania |
+| ------------- |:-------------:| -----:|
+|     -      | około 35 mln ludzi  | około 199 lat |
+![](5.jpg)
+
+---
